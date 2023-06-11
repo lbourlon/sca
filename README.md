@@ -18,10 +18,10 @@ C_x &= \frac{1}{2} ||y - a^L|| ^ 2 \\
 $$
 
 $$
-\begin{aligned}
+\begin{alig}
 C_x &= \frac{1}{2} ||y - a^L|| ^ 2 \\
 \Leftrightarrow C_x &= \frac{1}{2} \sqrt{(y_0 - a_0^L)^ 2 + ... + (y_n - a_n^L)^2}^2\\
 \Leftrightarrow C_x &= \frac{1}{2} \sum_{i=0}^n{(y_i - a_i^L)^2}
 
-\end{aligned}
+\end{alig}
 $$
